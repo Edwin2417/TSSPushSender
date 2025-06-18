@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSSPushSender", "TSSPushSender\TSSPushSender.csproj", "{581407D8-EB20-48D7-836A-9BFD7C590E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSSReceiverAPIS", "TSSReceiverAPIS\TSSReceiverAPIS.csproj", "{CEB56901-14A9-468B-AA31-5B5C7918947F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581407D8-EB20-48D7-836A-9BFD7C590E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581407D8-EB20-48D7-836A-9BFD7C590E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581407D8-EB20-48D7-836A-9BFD7C590E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581407D8-EB20-48D7-836A-9BFD7C590E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB56901-14A9-468B-AA31-5B5C7918947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB56901-14A9-468B-AA31-5B5C7918947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB56901-14A9-468B-AA31-5B5C7918947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB56901-14A9-468B-AA31-5B5C7918947F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F7794C-0A59-4C92-BDE8-348C0A2E0490}
+	EndGlobalSection
+EndGlobal
